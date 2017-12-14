@@ -1,8 +1,8 @@
 # The perfect secret ingredient
 
--avocado
+- avocado
 
--oranges
+- oranges
 
--limes
+- limes
 
